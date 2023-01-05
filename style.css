@@ -1,0 +1,10 @@
+body {
+    background-color: hsl(0, 0%, 13%);
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(224, 21, 210);
+    cursor: pointer;
+}
